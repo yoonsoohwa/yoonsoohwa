@@ -13,15 +13,13 @@
 
 <br>
 
+[![yoonsoohwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoohwa&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yoonsoohwa)
+
+<br>
+
 ### 👉 Follow Me 👈
 <div>
   <a href="mailto:Blue.yoonsh01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <!--   <a href="https://soohwadev.tistory.com/"><img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=Tistory&logoColor=white"></a> -->
 </div>
 
-<br>
-<br>
-<br>
-
-![yoonsoohwa's github stats](https://github-readme-stats.vercel.app/api?username=yoonsoohwa&show_icons=true)
-[![yoonsoohwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoohwa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yoonsoohwa)
